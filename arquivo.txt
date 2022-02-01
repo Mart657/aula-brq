@@ -1,3 +1,4 @@
 -Um teste para criação de arquivo
 Primeira modificação
 Outra modificação
+bug
